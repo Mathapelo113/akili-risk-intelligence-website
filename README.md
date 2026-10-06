@@ -23,3 +23,7 @@ Recommended settings:
 4. Review service pricing and wording.
 5. Add final logo assets if desired.
 6. Test desktop and mobile layouts.
+
+
+## Questionnaire routing update
+The Tally questionnaire is embedded only on assessment.html and is reached from the AI Risk Assessment service. Other services route to the general contact page and do not expose the questionnaire. Existing clients are directed to contact Akili for ongoing services and do not need to repeat the initial questionnaire.
